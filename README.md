@@ -77,7 +77,7 @@ See code [here](https://github.com/rubytechme/Sales-Analysis---Customer-Lifetime
 1. Highest revenue generating location
 The highest revenue for the company came from CA California. This means that the business can establish more presence in CA )
 
-2, Best Selling Product
+2. Best Selling Product
 The top-selling products were the electric heater and dog bed, generating over $1000 and $800 in revenue, respectively.
 
 
