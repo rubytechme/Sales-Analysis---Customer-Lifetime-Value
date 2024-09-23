@@ -1,6 +1,6 @@
 # Sales-Analysis - Customer LTV 
 
-![](sales-intro-image.jpeg)
+![](sales-intro.jpg)
 
 ## Introduction:
 In the fast-paced world of business, sales are the lifeblood of every organisation. But amidst the hustle and bustle of closing deals, it's easy to lose sight of the bigger picture. To unravel the hidden trends and patterns that drive sales success, I embarked on a deep dive into  Sive sales data.
