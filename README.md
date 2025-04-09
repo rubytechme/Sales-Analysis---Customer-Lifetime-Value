@@ -1,4 +1,4 @@
-# Sales-Analysis - Customer LTV 
+# Product Analytics - Customer LTV 
 
 ![](sales-intro.jpg)
 
